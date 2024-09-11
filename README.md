@@ -12,14 +12,7 @@
 • 📫 How to reach me "Just look around, you already reached me "
 
 
-<!--  <a align="centre" >Get in Touch </a>
-  <img height="50" src="https://media.tenor.com/uxO8UkvrXz4AAAAi/animation-cat.gif"/>
-<p align="center"> 
-<a href = "https://www.linkedin.com/in/sajan-sharma-081790218"> <img src = "https://img.shields.io/badge/-SAURABH%20KUMAR-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SAURABH%20KUMAR-081790218" /> &nbsp; &nbsp; </a>
-<a href = "https://github.com/Saurabh209"> <img src = "https://img.shields.io/badge/-Saurabh209-%23121011.svg?style=flat&logo=github&logoColor=white&link=https://github.com/Saurabh209/" /> &nbsp; &nbsp; </a>
-<a href = "https://twitter.com/dank_sharma?t=QnsHNyZoQetov7LV1c8CcQ&s=08"> <img src = "https://img.shields.io/badge/-Saurabh Kumar-blue.svg?style=flat&logo=Twitter&logoColor=blue&logoColor=blue&link=https://twitter.com" /> &nbsp; &nbsp; </a>
-<a href = "mailto:0211ite165@niet.co.in"> <img src = "https://img.shields.io/badge/0211ite003@niet.co.in-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:0211ite003@niet.co.in" > &nbsp; &nbsp; </a>
-</p>   -->
+
 
 
   
