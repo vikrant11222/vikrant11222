@@ -35,7 +35,7 @@
    <img height=150" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE1NTM3MDQsIm5iZiI6MTcxMTU1MzQwNCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI3VDE1MzAwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE1MDc1MWFkNTdkOWFhNGJmZjM1NjRiMWM1OTY2OTczMDQ2ZjEwMmZlNjhhYjM5Mzc1NjFkOWU3MDY2MjRjMGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.fNCc3zXpWfLWENgY5yYXWRYD9GmlV3QMROAW_3s7KZw"/>
 <div align="center">
     <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://my-stats-lemon.vercel.app/api?username=Vikrant Singh &show_icons=true&theme=tokyonight&hide_border=true"/>
+        <img width="49%" alt="Stats" src="https://my-stats-lemon.vercel.app/api?username=Vikrant112222&show_icons=true&theme=tokyonight&hide_border=true"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=vikrant11222&theme=tokyonight&hide_border=true"/>
